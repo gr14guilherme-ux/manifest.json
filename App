@@ -1,7 +1,7 @@
 {
   "name": "TrainFlow",
   "short_name": "TN",
-  "start_url": "./VoltTraining/",
+  "start_url": "/VoltTraining/",
   "display": "standalone",
   "background_color": "#08080f",
   "theme_color": "#08080f",
@@ -11,5 +11,5 @@
       "sizes": "192x192",
       "type": "image/png"
     }
-  ]
+  ],
 }
